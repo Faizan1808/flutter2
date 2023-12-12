@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23877398782",
+    "project_id": "myflutter-firebaseproject",
+    "storage_bucket": "myflutter-firebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23877398782:android:3b034a4dfc13699c6235af",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYvOBCwdoMJJWUwWtMClCvgie08fkR9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
